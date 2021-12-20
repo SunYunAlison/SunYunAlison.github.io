@@ -1,6 +1,6 @@
 {
     "roleCheck": "Y",
     "module": "sales,logistic,manufacturing",
-    "needLabel": "Y",
+    "needLabel": "N",
     "category": "FOOD"
 }
